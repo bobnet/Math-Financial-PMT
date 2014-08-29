@@ -40,7 +40,11 @@ pmt
 
 =head1 SYNOPSIS
 
-Calculate a payment..
+Calculate a payment.
+
+Payment amount per interval on loan or annuity of initial value "pv" 
+with payments spread out over "nper"
+intervals and with interest accruing at "rate" per interval.
 
 =head1 VERSION
 
