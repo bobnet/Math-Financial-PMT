@@ -28,3 +28,29 @@ sub PMT {
 
 1;
 __END__
+
+
+#### COPYRIGHT: RCC
+#### AUTHOR: bobnet <bob@bobnet.co.uk>
+#### DATE: 01.05.2002
+
+=head1 NAME
+
+pmt
+
+=head1 SYNOPSIS
+
+Calculate a payment..
+
+=head1 VERSION
+
+1.01
+
+=head1 COPYRIGHT
+
+Copyright (C) 2002. bobnet <bob@bobnet.co.uk>. All Rights Reserved.
+
+=head1 LICENSE
+
+This is free software. You can redistribute it or modify it under the terms of
+GNU General Public License version 3.
